@@ -19,7 +19,7 @@ By leveraging on a novel Computer Vision model called <span style="color:blue"><
 Contrastive Learning of Visual Representations (SimCLR)</strong></span>, we extract visual representations
 from SEM images of ZnO-nanorods and predict its best synthesis conditions.
 
-![Illustration of Positive and Negative Pairs under the SimCLR Architecture](assets/simclr-visualization.png)
+![Illustration of Positive and Negative Pairs under the SimCLR Architecture](simclr-visualization.png)
 
 SimCLR tries to learn such visual representations by establishing <strong>positive and negative views</strong> of the same image using
 data augmentation under Computer Vision. The model then tries to maximize disagreement between negative pairs while simultaneously maximizing agreements between
