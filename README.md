@@ -6,7 +6,6 @@
   This repository contains the project I worked on as a Research Intern under Mathematical Informatics (MI) Laboratory at Nara Institute of Science and Technology (NAIST) in Ikoma, Japan last
   January 2025. All credits reserved from NAIST with regards to the SEM image dataset I worked on.
 
-<ul>
 <h1> Description </h1>
 <h2>Introduction</h2>
 Zinc Oxide (ZnO) is a semiconductor which has a high thermal and chemical stability,
@@ -36,7 +35,6 @@ A good learning representation also enabled us to somehow predict the  correct s
  60% in some runs of the model is a testament of how we can utilize this architecture in analyzing best synthesis conditions of the said material just
  be looking at its SEM images. Additionally, using magnification as a prior condition in establishing positive pairs pose crucial benefits in better predicting synthesis conditions
  of SEM images, as evidenced by a higher and more consistent accuracy.
-</ul>
 
   <h2>Files</h2>
   This repository contains the following files:
