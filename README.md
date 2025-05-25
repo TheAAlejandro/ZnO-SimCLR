@@ -2,11 +2,9 @@
  ZnO-nanorods to Predict Synthesis Conditions using
  Magnification Prior Contrastive Learning</h1>
 
-<ul>
   <h2>Overview</h2>
   This repository contains the project I worked on as a Research Intern under Mathematical Informatics (MI) Laboratory at Nara Institute of Science and Technology (NAIST) in Ikoma, Japan last
   January 2025. All credits reserved from NAIST with regards to the SEM image dataset I worked on.
-</ul>
 
 <ul>Description
 <h2>Introduction</h2>
