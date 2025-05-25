@@ -6,7 +6,8 @@
   This repository contains the project I worked on as a Research Intern under Mathematical Informatics (MI) Laboratory at Nara Institute of Science and Technology (NAIST) in Ikoma, Japan last
   January 2025. All credits reserved from NAIST with regards to the SEM image dataset I worked on.
 
-<ul>Description
+<ul>
+<h1> Description </h1>
 <h2>Introduction</h2>
 Zinc Oxide (ZnO) is a semiconductor which has a high thermal and chemical stability,
 often used in the form of nanowires/nanorods. This material poses great importance in developing
@@ -37,13 +38,11 @@ A good learning representation also enabled us to somehow predict the  correct s
  of SEM images, as evidenced by a higher and more consistent accuracy.
 </ul>
 
-<ul>
   <h2>Files</h2>
   This repository contains the following files:
   <li><code>MA-final-resnetmodel.ipynb</code>: Base SimCLR model using a specific magnification, with images converted in grayscale</li>
   <li><code>MB-final-resnetmodel.ipynb</code>: Base SimCLR model using a specific magnification, with images in grayscale and greater emphasis (weights) on pairs</li>
   <li><code>MC-final-resnetmodel.ipynb</code>: Magnification-Prior SimCLR model using all magnifications with modified Contrastic Loss</li>
   <li><code>MD-final-resnetmodel.ipynb</code>: Magnification-Prior SimCLR model using all magnifications</li>
-</ul>
  
  
